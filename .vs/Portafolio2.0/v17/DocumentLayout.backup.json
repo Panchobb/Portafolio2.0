@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\factu\\source\\repos\\Portafolio2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF5EB5-C45C-441D-A5D9-9B4740215B4F}|Portafolio2.0\\Portafolio2.0.csproj|c:\\users\\factu\\source\\repos\\portafolio2.0\\portafolio2.0\\menuprincipal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41DF5EB5-C45C-441D-A5D9-9B4740215B4F}|Portafolio2.0\\Portafolio2.0.csproj|solutionrelative:portafolio2.0\\menuprincipal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.aspx",
+              "DocumentMoniker": "C:\\Users\\factu\\source\\repos\\Portafolio2.0\\Portafolio2.0\\MenuPrincipal.aspx",
+              "RelativeDocumentMoniker": "Portafolio2.0\\MenuPrincipal.aspx",
+              "ToolTip": "C:\\Users\\factu\\source\\repos\\Portafolio2.0\\Portafolio2.0\\MenuPrincipal.aspx",
+              "RelativeToolTip": "Portafolio2.0\\MenuPrincipal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-13T13:58:22.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
